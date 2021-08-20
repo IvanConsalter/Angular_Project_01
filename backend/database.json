@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Computador Desktop",
+      "price": 1999
+    },
+    {
+      "id": 2,
+      "name": "Iphone X",
+      "price": 3699.99
+    },
+    {
+      "id": 3,
+      "name": "Notebook Acer",
+      "price": 2599.99
+    },
+    {
+      "name": "Maquina de Lavar Consul",
+      "price": 2599.99,
+      "id": 4
+    },
+    {
+      "name": "Geladeira Consul",
+      "price": 2599.99,
+      "id": 5
+    }
+  ]
+}
