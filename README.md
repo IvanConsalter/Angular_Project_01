@@ -16,5 +16,5 @@ Inside the backend folder, run the commands with npm
 
 - npm init -y
 - npm install json-server
-config scripts -> "start": "json-server --watch database.json --port 3001"
+- config scripts -> "start": "json-server --watch database.json --port 3001"
 - npm start
