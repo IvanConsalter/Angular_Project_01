@@ -30,3 +30,7 @@ Inside the backend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - npm start
+
+## Installing Angular Material
+
+- ng add @angular/material
