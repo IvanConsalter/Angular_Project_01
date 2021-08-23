@@ -18,3 +18,15 @@ Inside the backend folder, run the commands with npm
 - npm install json-server
 - config scripts -> "start": "json-server --watch database.json --port 3001"
 - npm start
+
+## Installing Angular Cli
+
+- npm install -g @angular/cli
+
+## Creating a new Project
+
+- ng new frontend --minimal
+
+Inside the frontend folder, run the commands with npm
+
+- npm start
