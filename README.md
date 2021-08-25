@@ -50,3 +50,9 @@ or
 Inside the frontend folder, run the commands with npm
 
 - ng g c components/template/header
+
+## Creating the footer component
+
+Inside the frontend folder, run the commands with npm
+
+- ng g c components/template/footer
