@@ -36,3 +36,17 @@ Inside the frontend folder, run the commands with npm
 - npm install --save @angular/material @angular/cdk @angular/animations
 
 - ng add @angular/material 
+
+## Creating a Component
+
+- ng generate component "directory were will be created"
+
+or
+
+- ng g c "directory were will be created"
+
+## Creating the header component
+
+Inside the frontend folder, run the commands with npm
+
+- ng g c components/template/header
