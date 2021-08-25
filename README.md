@@ -33,4 +33,6 @@ Inside the frontend folder, run the commands with npm
 
 ## Installing Angular Material
 
-- ng add @angular/material
+- npm install --save @angular/material @angular/cdk @angular/animations
+
+- ng add @angular/material 
