@@ -56,3 +56,9 @@ Inside the frontend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - ng g c components/template/footer
+
+## Creating the navigation component
+
+Inside the frontend folder, run the commands with npm
+
+- ng g c components/template/nav
