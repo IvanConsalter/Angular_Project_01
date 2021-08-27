@@ -62,3 +62,9 @@ Inside the frontend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - ng g c components/template/nav
+
+## Creating the home component
+
+Inside the frontend folder, run the commands with npm
+
+- ng g c components/views/home
