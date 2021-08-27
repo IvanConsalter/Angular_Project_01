@@ -68,3 +68,15 @@ Inside the frontend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - ng g c components/views/home
+
+## Creating the products-crud component
+
+Inside the frontend folder, run the commands with npm
+
+- ng g c components/views/products-crud
+
+## Adding the AppRoutingModule
+
+Inside the frontend folder, run the commands with npm
+
+- ng generate module app-routing --flat --module=app
