@@ -80,3 +80,9 @@ Inside the frontend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - ng generate module app-routing --flat --module=app
+
+## Creating the product-create component
+
+Inside the frontend folder, run the commands with npm
+
+- ng g c components/product/product-create
