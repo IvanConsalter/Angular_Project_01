@@ -86,3 +86,9 @@ Inside the frontend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - ng g c components/product/product-create
+
+## Creating the product Service
+
+Inside the frontend folder, run the commands with npm
+
+- ng g s components/product/product
