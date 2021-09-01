@@ -92,3 +92,10 @@ Inside the frontend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - ng g s components/product/product
+
+## Two-way binding
+
+- [(ngModel)]="product.name"
+- [(ngModel)]="product.price"
+
+[understading two-way binding](https://angular.io/guide/two-way-binding)
