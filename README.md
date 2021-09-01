@@ -99,3 +99,9 @@ Inside the frontend folder, run the commands with npm
 - [(ngModel)]="product.price"
 
 [understading two-way binding](https://angular.io/guide/two-way-binding)
+
+## Creating the product-read component
+
+Inside the frontend folder, run the commands with npm
+
+- ng g c components/product/product-read
