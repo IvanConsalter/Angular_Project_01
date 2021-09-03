@@ -2,5 +2,5 @@ export interface Product {
 
   id?: Number
   name: String
-  price: number
+  price?: number
 }

@@ -105,3 +105,9 @@ Inside the frontend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - ng g c components/product/product-read
+
+## Installing Schematics Form
+
+Inside the frontend folder, run the commands with npm
+
+- ng generate @angular/material:table components/product/product-read
