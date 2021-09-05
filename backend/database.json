@@ -2,7 +2,7 @@
   "products": [
     {
       "id": 1,
-      "name": "Computador Desktop",
+      "name": "Computador Desktop 2",
       "price": 1999
     },
     {
@@ -16,7 +16,7 @@
       "price": 2599.99
     },
     {
-      "name": "Maquina de Lavar Consul",
+      "name": "Maquina de Lavar Brastemp",
       "price": 2599.99,
       "id": 4
     },

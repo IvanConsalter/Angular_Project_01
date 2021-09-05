@@ -23,6 +23,7 @@ import { MatInputModule } from '@angular/material/input';
 import { ProductsCrudComponent } from './components/views/products-crud/products-crud.component';
 import { ProductCreateComponent } from './components/product/product-create/product-create.component';
 import { ProductReadComponent } from './components/product/product-read/product-read.component';
+import { ProductUpdateComponent } from './components/product/product-update/product-update.component';
 
 import { HttpClientModule } from '@angular/common/http';
 import { MatTableModule } from '@angular/material/table';
@@ -44,7 +45,8 @@ registerLocaleData(localePt);
     HomeComponent,
     ProductsCrudComponent,
     ProductCreateComponent,
-    ProductReadComponent
+    ProductReadComponent,
+    ProductUpdateComponent
   ],
   imports: [
     BrowserModule,
