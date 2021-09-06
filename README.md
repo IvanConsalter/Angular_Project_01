@@ -129,3 +129,9 @@ Inside the frontend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - ng g s components/template/header/header
+
+## Layout
+
+![angular-01](https://user-images.githubusercontent.com/50461475/132263779-9cd76ffd-392e-47bd-8544-7af2dc276e8d.png)
+
+![angular-02](https://user-images.githubusercontent.com/50461475/132263781-692ff5e2-442e-48cb-b37e-2b11d8207ce5.png)
