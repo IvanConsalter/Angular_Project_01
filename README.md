@@ -123,3 +123,9 @@ Inside the frontend folder, run the commands with npm
 Inside the frontend folder, run the commands with npm
 
 - ng g c components/product/product-delete
+
+## Creating the header Service
+
+Inside the frontend folder, run the commands with npm
+
+- ng g s components/template/header/header
